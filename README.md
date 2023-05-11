@@ -1,5 +1,5 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaneda05&theme=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kanemasa1999&theme=github)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kanemasa1999&theme=github&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kaneda05&theme=github)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kaneda05&theme=github&utcOffset=8)
 
 <hr size="0.5">
 
