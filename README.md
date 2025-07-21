@@ -8,4 +8,7 @@
 ## Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=kaneda05&theme=gruvbox)
 
+[![](https://github-readme-streak-stats.herokuapp.com/?username=kaneda05&theme=gruvbox)](https://github-readme-streak-stats.herokuapp.com/?username=kaneda05&theme=gruvbox)
+
+
 
